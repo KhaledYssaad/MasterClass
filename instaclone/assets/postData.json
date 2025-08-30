@@ -1,0 +1,14 @@
+[
+  {
+    "username": "Khaled",
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytc93VfA29gwZ4w1ySdWjx1CSJBM6qGG3BA&s",
+    "postImage": "https://picsum.photos/300/200",
+    "caption": "Hello world 🌍"
+  },
+  {
+    "username": "Sara",
+    "profileImage": "https://randomuser.me/api/portraits/women/34.jpg",
+    "postImage": "https://picsum.photos/300/201",
+    "caption": "Testing Flutter posts 🚀"
+  }
+]
